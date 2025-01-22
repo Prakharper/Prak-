@@ -10,9 +10,9 @@ import axios from 'axios'
 
 global.owner = [
   ['50557865603', 'WillZek', true],
-  ['529983694618', 'Aamōn', true],
+  ['5219983694618', 'Aamōn', true],
   ['584241836217', 'Prak Harper', true],
-  ['50498409019', 'Soporte', true]
+  ['', 'Soporte', true]
 ]
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
@@ -23,14 +23,14 @@ global.prems = []
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
 global.packname = `[ Sticker Maker`
-global.author = '🌠 Prak Ai WhatsApp Bot ]'
-global.stickpack = '© PrakBot'
+global.author = '🪷 Levi-bot Ai WhatsApp Bot ]'
+global.stickpack = '© leviBot'
 global.stickauth = 'By PrakHarper'
 global.wait = '🚩 *Aɢᴜᴀʀᴅᴇ ᴜɴ ᴍᴏᴍᴇɴᴛᴏ, sᴏʏ ʟᴇɴᴛ𝙾... ฅ^•ﻌ•^ฅ*'
-global.botname = '[ Prak Ai WhatsApp Bot ]'
+global.botname = '[ Levi Ai WhatsApp Bot ]'
 global.textbot = `Powered By Prak Harper`
 global.listo = '*Aqui tiene ฅ^•ﻌ•^ฅ*'
-global.namechannel = 'ThePrakBot-Ai 🌠'
+global.namechannel = 'TheLeviBot-Ai 🪷'
 
 //*─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─⭒─ׄ─ׅ─ׄ─*
 
