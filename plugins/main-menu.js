@@ -197,7 +197,7 @@ let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
     let pp13 = 'https://i.ibb.co/v1HS7MR/file.jpg'
     let pp14 = 'https://i.ibb.co/MsCpYBD/file.jpg'
     let pp15 = 'https://i.ibb.co/MsCpYBD/file.jpg'
-    let img = 'https://files.catbox.moe/2fdw61.jpg'
+    let img = 'https://files.catbox.moe/sexx1t.jpg'
     await m.react('🪷')
 
 let imagenes = ["https://files.catbox.moe/aitrwl.jpg",
